@@ -1,10 +1,16 @@
 body{
     width: 1280px;
     margin:auto;
+    
 }
+
+
+
+
 
 .background{
     background: url("start-screen-gradient-background.png");
+    
 }
 
 .logo{
@@ -1073,3 +1079,6 @@ footer img{
 .navigation ul li a:hover{
     color: #FFFFFF;
 }
+
+
+
