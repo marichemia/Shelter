@@ -336,7 +336,7 @@ footer{
     position: relative;
     width: 1280px;
     height: 350px;
-    background: url("footer-gradient-background.png");
+    background: url("../../assets/images/footer-gradient-background.png");
     margin: auto;
 }
 
