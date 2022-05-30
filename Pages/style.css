@@ -5,7 +5,7 @@ body{
 }
 
 .background{
-    background: url("start-screen-gradient-background.png");
+    background: url("../assets/images/start-screen-gradient-background.png");
     
 }
 
@@ -883,7 +883,7 @@ footer{
     position: relative;
     width: 1280px;
     height: 350px;
-    background: url("footer-gradient-background.png");
+    background: url("../assets/images/footer-gradient-background.png");
 }
 
 .footer-content{
