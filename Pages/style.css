@@ -1,15 +1,11 @@
 body{
     width: 1280px;
     margin:auto;
-    background: url(noise_lines_transparent@2X.png), radial-gradient(110.67% 538.64% at 5.73% 50%, #513D2F 0%, #1A1A1C 100%), #211F20;
+    
 }
 
-
-
-
-
 .background{
-    background: url("../assets/images/start-screen-gradient-background.png");
+    background: url("start-screen-gradient-background.png");
     
 }
 
@@ -52,7 +48,7 @@ body{
     top: 50px;
     width: 600px;
     height: 27px;
-    left: 1030px;
+    left: 930px;
     
 }
 
@@ -79,7 +75,7 @@ ul{
     list-style: none;
 }
 
-.start-page{
+.start-page{   
     width: 1200px;
     height: 728px;
     left: 40px;
@@ -1079,6 +1075,3 @@ footer img{
 .navigation ul li a:hover{
     color: #FFFFFF;
 }
-
-
-
